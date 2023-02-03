@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vijay Iyer</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning ** R, **
+- 🌱 I’m currently learning  R
 
 - 👨‍💻 My portfolio Link (Dummy) [https://iyervijay21.github.io/portfolio_website/](https://iyervijay21.github.io/portfolio_website/)
 
